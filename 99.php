@@ -17,7 +17,7 @@ header('Content-Type: text/html; charset=utf-8');
   </style>
 </head>
 <body>
-  <h1>九九乘法表</h1>
+  <h1>九九乘法表P1</h1>
   <p>此頁使用 PHP 迴圈動態產生 1 × 1 到 9 × 9 的乘法表。</p>
   <table aria-label="九九乘法表">
     <caption>1 到 9 的乘法結果</caption>
